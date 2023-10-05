@@ -1,4 +1,4 @@
-package edu.uoc.ds.adt.util;
+package edu.uoc.ds.adt;
 
 public @interface MyAnotations {
 
